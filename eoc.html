@@ -1,0 +1,259 @@
+<!DOCTYPE HTML>
+<!-- 
+Name: Felix Petersma
+Studentnumber: 10367217
+Project: EvolutionOfCoffee
+Agency-style bootstrap source: http://ironsummitmedia.github.io/startbootstrap-agency/
+-->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>the Evolution of Coffee</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Custom CSS by agency-creator -->
+    <link href="agency_creator/agency.css" rel="stylesheet">
+
+    <!-- Custom font by agency-creator -->
+    <link href="agency_creator/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" type="text/css" href="external_css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="external_css/bootstrap-theme.css" />
+    <link rel="stylesheet" type="text/css" href="external_css/bootstrap.css" />
+
+    <!-- Custom fonts -->
+    <link rel="stylesheet" type="text/css" href="eoc_svg.css" />
+    <link rel="stylesheet" type="text/css" href="eoc_html.css" />
+</head>
+
+<body id="page-top" class="index text-center">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">The Evolution of Coffee</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top" style="outline: none">The Evolution of Coffee</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#waves">The Waves</a>
+                    </li>
+                    <li>
+                      <a class="page-scroll" href="#map">The Map</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#credits">Credits</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <header>
+        <div class="container" id="title">
+            <div class="intro-text">
+                <div class="intro-lead-in">The Evolution of Coffee</div>
+                <div class="intro-heading">From Kaldi to Specialty Coffee</div>
+                <a href="#waves" class="page-scroll btn btn-lg btn-default start-btn" style="outline: none; color: #444444;" role="button">Start the Story</a>
+            </div>
+        </div>
+    </header>
+    <!-- Waves Section -->
+    <section id="waves">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">The Waves</h2>
+                    <h3 class="section-subheading text-muted">The history of coffee is divided in waves. Click the one you are interested in!</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-3 first-wave" id="first-wave">
+                    <a href="#map" class="page-scroll btn-lg btn" style="outline: none;" role="button">
+                        <svg></svg>
+                    </a>
+                    <h4 class="service-heading">First Wave</h4>
+                    <p class="text-muted">11th century - 1950</p>
+                </div>
+                <div class="col-md-3 second-wave" id="second-wave">
+                    <a href="#map" class="page-scroll btn-lg btn" style="outline: none;" role="button">
+                        <svg></svg>
+                    </a>
+                    <h4 class="service-heading">Second Wave</h4>
+                    <p class="text-muted">1950 - 2000</p>
+                </div>
+                <div class="col-md-3 third-wave" id="third-wave">
+                    <a href="#map" class="page-scroll btn-lg btn" style="outline: none;" role="button">
+                        <svg></svg>
+                    </a>
+                    <h4 class="service-heading">Third Wave</h4>
+                    <p class="text-muted">2000 - now</p>
+                </div>
+                <div class="col-md-3 fourth-wave" id="fourth-wave">
+                    <a href="#map" class="page-scroll btn-lg btn" style="outline: none;" role="button">
+                        <svg></svg>
+                    </a>
+                    <h4 class="service-heading">Fourth Wave</h4>
+                    <p class="text-muted">Now - future?</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- the map section -->             
+    <section id="map">
+        <div class="container container-map">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="section-heading">the Map</h2>
+                    <h3 class="section-subheading text-muted">Hover over the countries to see more specific information.</h3>
+                </div>
+            </div>
+            <div class="row row-map">
+                <div class="dropdown">
+                    <button class="disabled col-md-2 btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+                        Producing country
+                    <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+                        <li class="dropdown-header">Mouseover the countries</li>
+                    </ul>
+                </div>
+                <div class="col-md-10 text-center" id="map-main">
+                    <svg></svg>
+                </div>
+            </div>
+            <div class="maintexttip-row col-md-12"></div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <button class="btn-lg btn disabled" role="button" id="info-btn">Tell me more about the wave</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Credits Section -->
+    <section id="credits">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Credits</h2>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4 credits-books" id="credits-books">
+                    <h3 class="service-heading">Books</h3>
+                    <h5>The World Atlas of Coffee</h5>
+                    <span class="text-muted">(<a href="http://www.amazon.com/The-World-Atlas-Coffee-Explained/dp/1770854703">http://www.amazon.com/The-World-Atlas-Coffee-Explained/dp/1770854703</a>)</span>
+                    <h5>Puur Koffie</h5>
+                    <span class="text-muted">(<a href="http://www.bol.com/nl/p/puur-koffie/9200000022643589/?Referrer=ADVNLGOO002008-WTEKYC6TEAQNC-73522858093">http://www.bol.com/nl/p/puur-koffie/9200000022643589/?Referrer=ADVNLGOO002008-WTEKYC6TEAQNC-73522858093</a>)</span>
+                </div>
+                <div class="col-md-4 credits-people" id="credits-people">
+                    <h3 class="service-heading">People</h3>
+                    <h5>Rick Woertman</h5>
+                    <span class="text-muted">Owner Espressofabriek, first coffeebar in Amsterdam to have its own roaster (<a href="http://www.espressofabriek.nl/">http://www.espressofabriek.nl</a>)</span>
+                    <h5>Lex Wenneker</h5>
+                    <span class="text-muted">Owner Espressobus, co-owner Headfirst Coffee Roasters, Barista Champion Netherlands 2015, (<a href="http://headfirstcoffeeroasters.com/">http://headfirstcoffeeroasters.com/</a>)</span>
+                    <h5>Sebastiaan Geistdorfer</h5>
+                    <span class="text-muted">Barista and roaster @Espressofabriek, previously @Coffeecompany Branderij</span>
+                    <h5>Mitchell Calmao Baptista</h5>
+                    <span class="text-muted">Barista and co-owner @Daltons coffee &amp; barista @Espressofabriek, previously @Ristretto London (<a href="http://www.daltonshoreca.nl/">http://www.daltonshoreca.nl/</a>)</span>
+                </div>
+                <div class="col-md-4 credits-websites" id="credits-websites">
+                    <h3 class="service-heading">Websites</h3>
+                    <h5>Seattle Coffee Guide: The Evolution of Coffee</h5>
+                    <span class="text-muted">(<a href="http://www.seattlemag.com/article/seattle-coffee-guide-evolution-coffee">http://www.seattlemag.com/article/seattle-coffee-guide-evolution-coffee</a>)</span>
+                    
+                    <h5>The Evolution of the Coffee House</h5>
+                    <span class="text-muted">(<a href="http://coffeetea.about.com/od/history1/a/shophistory.htm">http://coffeetea.about.com/od/history1/a/shophistory.htm</a>)</span>
+                    
+                    <h5>Story of Kaldi</h5>
+                    <span class="text-muted">(<a href="http://en.wikipedia.org/wiki/Kaldi">http://en.wikipedia.org/wiki/Kaldi</a>)</span>
+                    
+                    <h5>History of Coffee</h5>
+                    <span class="text-muted">(<a href="http://www.ncausa.org/i4a/pages/index.cfm?pageID=68">http://www.ncausa.org/i4a/pages/index.cfm?pageID=68</a>)</span>
+                    
+                    <h5>Espresso</h5>
+                    <span class="text-muted">(<a href="http://en.wikipedia.org/wiki/Espresso">http://en.wikipedia.org/wiki/Espresso</a>)</span>
+                    
+                    <h5>Specialty Coffee</h5>
+                    <span class="text-muted">(<a href="http://en.wikipedia.org/wiki/Specialty_coffee">http://en.wikipedia.org/wiki/Specialty_coffee</a>)</span>
+                    
+                    <h5>SCAA</h5>
+                    <span class="text-muted">(<a href="http://en.wikipedia.org/wiki/Specialty_Coffee_Association_of_America">http://en.wikipedia.org/wiki/Specialty_Coffee_Association_of_America</a>)</span>
+                    
+                    <h5>Blue Bottle Coffee</h5>
+                    <span class="text-muted">(<a href="https://bluebottlecoffee.com/">https://bluebottlecoffee.com/</a>)</span>
+                    
+                    <h5>Intelligentsia Coffee</h5>
+                    <span class="text-muted">(<a href="http://www.intelligentsiacoffee.com/">http://www.intelligentsiacoffee.com/</a>)</span>
+
+                    <h5>'CoffeaArabica 02'</h5> 
+                    <span class="text-muted">By Elcambur - Own work, Licensed under CC BY 3.0 via Wikimedia Commons
+                    (<a href="http://commons.wikimedia.org/wiki/File:CoffeaArabica_02.jpg#/media/File:CoffeaArabica_02.jpg">http://commons.wikimedia.org/wiki/File:CoffeaArabica_02.jpg#/media/File:CoffeaArabica_02.jpg</a>)</span>
+
+                    <h5>Japan's coffee culture</h5>
+                    <span class="text-muted">(<a href="http://www.japantoday.com/category/opinions/view/japans-coffee-culture">http://www.japantoday.com/category/opinions/view/japans-coffee-culture</a>)</span>
+                    <h5>Boliva</h5>
+                    <span class="text-muted">(<a href="http://www.coffeehunter.com/green_coffees/european/bolivia">http://www.coffeehunter.com/green_coffees/european/bolivia</a>)</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">About</h2>
+                    <h3 class="section-subheading text-muted">My name is Felix Petersma and I'm a student at the University of Amsterdam. I am currently finishing my BSc in Economics and starting the BSc in Econometrics. To pay for my studies, I work as a barista. I have created this visualisation as a final project for the minor in Programming. I have used several sources of information, which have all been credited above. If you think this visualisation, and specifically the information in it, is lacking some parts or is wrong in any way, please contact me. You can contact me @ <a href="https://www.linkedin.com/pub/felix-petersma/95/392/1?domainCountryName=&amp;csrfToken=ajax%3A8067567558219289271">linkedIn</a></h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- jQuery -->
+    <script src="agency_creator/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="agency_creator/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="agency_creator/jquery.easing.min.js"></script>
+    <script src="agency_creator/classie.js"></script>
+    <script src="agency_creator/cbpAnimatedHeader.js"></script>
+
+    <!-- D3 JavaScript -->
+    <script src="external_javascript/d3.js"></script>
+    <script src="external_javascript/d3.geo.projection.v0.js"></script>
+
+    <!-- TopoJSON JavaScript -->
+    <script src="external_javascript/topojson.v1.js"></script>
+
+    <!-- Agency Theme JavaScript -->
+    <script src="agency_creator/agency.js"></script>
+
+    <!-- Country list in JavaScript -->
+    <script src="data_lists.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="eoc-main.js"></script>
+  </body>
+</html>

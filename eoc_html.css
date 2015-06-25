@@ -1,0 +1,31 @@
+html {
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: FontAwesome;
+	color: #444444;
+	background: none;
+	margin: 0;
+	padding: 0;
+}
+
+body #map, #about {
+	background: #eee;
+}
+
+a {
+	outline: none;
+}
+
+section {
+	padding: 50px;
+}
+
+.navbar {
+	opacity: 0.85;
+}
+
+.mouse-over-button {
+	background: #cccccc;
+}

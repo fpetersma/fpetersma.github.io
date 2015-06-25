@@ -1,0 +1,118 @@
+.wave {
+	background-color: none;
+}
+
+.graticule {
+	stroke: #333333;
+	stroke-width: .2px;
+	stroke-opacity: .5;	
+	fill: none;
+}
+
+.stroke {
+  fill: none;
+  stroke: #444444;
+  stroke-width: .5px;
+}
+
+.subunit {
+	fill: #444444;
+}
+
+.boundary {
+	fill: none;
+}
+
+#first-wave svg, 
+#second-wave svg, 
+#third-wave svg, 
+#fourth-wave svg {
+	cursor: pointer;
+}
+
+.first-wave .code528, 
+.first-wave .code250, 
+.first-wave .code682, 
+.first-wave .code512, 
+.first-wave .code784, 
+.first-wave .code887, 
+.first-wave .code231 {
+	fill: #8c3500;
+}
+
+.second-wave .code380, 
+.second-wave .code840 {
+	fill: #8c3500;
+}
+
+.third-wave .code276, 
+.third-wave .code752, 
+.third-wave .code578, 
+.third-wave .code246, 
+.third-wave .code826, 
+.third-wave .code208, 
+.third-wave .code528, 
+.third-wave .code840, 
+.third-wave .code36, 
+.third-wave .code392, 
+.third-wave .code56 {
+	fill: #8c3500;
+} 
+
+.fourth-wave .code108, 
+.fourth-wave .code231, 
+.fourth-wave .code404, 
+.fourth-wave .code454,
+.fourth-wave .code646,
+.fourth-wave .code834, 
+.fourth-wave .code894, 
+.fourth-wave .code68, 
+.fourth-wave .code76, 
+.fourth-wave .code170, 
+.fourth-wave .code188, 
+.fourth-wave .code192, 
+.fourth-wave .code214, 
+.fourth-wave .code218, 
+.fourth-wave .code222, 
+.fourth-wave .code320, 
+.fourth-wave .code340, 
+.fourth-wave .code388, 
+.fourth-wave .code484, 
+.fourth-wave .code558, 
+.fourth-wave .code591, 
+.fourth-wave .code604, 
+.fourth-wave .code862, 
+.fourth-wave .code356, 
+.fourth-wave .code360, 
+.fourth-wave .code598, 
+.fourth-wave .code704, 
+.fourth-wave .code887 {
+	fill: #8c3500;
+}
+
+.blanco .subunit{
+	fill: #aaaaaa;
+}
+
+.text-1, .text-2, .text-3, .text-4 {
+	top: 20%;
+	position: absolute;
+	margin-left: auto;
+	margin-right: auto;
+	left: 0;
+	right: 0;
+}
+
+.tooltip, .maintexttip {
+	font-family: FontAwesome;
+	pointer-events:none;
+	text-align: center;
+	padding: 10px;
+	color: #dddddd;
+	background: #8c3500;
+	border: solid 1px #444;
+	border-radius: 8px;
+	opacity: 0.7;
+}
+
+

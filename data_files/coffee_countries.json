@@ -1,0 +1,206 @@
+{
+	"Coffee Producing Countries":
+		{"Burundi":
+			{"Introduction": "Coffee came to Burundi in the 1920s under Belgian colonial rule, and from 1933 every peasant farmer had to cultivate at least fifty coffee trees. When Burundi gained its independence in 1962, coffee production went private. This changed in 1972, along with the political climate, but sinces 1991 coffee has slowly been returning to the private sector.",
+			"Taste profile": "Great coffees from Burundi can hvae complex berry fruit flavours, and a great juicy quality",
+			"Varieties": "Bourbon, Jackson, Mibrizi and some SL Varieties",
+			"Number of 60kg bags (2013)": "167,000",
+			"Country code": "108"}
+		,
+		"Ethiopia":
+			{"Introduction": "Of all the coffee-producing countries, Ethiopia is perhaps the most compelling. Its fascination stems not only from the unusual, astonishing coffees it produces, but from the mystery that shrouds so much of it. The explosively floral and fruity coffees from Ethiopia have opened many a coffee professional's eyes to the diversity of flavour that coffee can have.",
+			"Taste profile": "The flavours of Ehtiopian coffees are notably divers - from citrus, often bergamot, and florals through to candied fruit or even tropical fruit flavours. The best washed coffees can be incredibly elegant, complex and delicious and the best naturally processed ones can be wildly fruity, and enchantingly unusual.",
+			"Varieties": "Heirloom Varieties",
+			"Number of 60kg bags (2013)": "6,600,000",
+			"Country code": "231"}
+		,
+		"Kenya":
+			{"Introduction": "Despite the fact that neighbouring Ehtiopia is considered the home of coffee, Kenya did not start production until relatively late. The earliest documented import of coffee dates to 1893 when French missionaries brought coffee trees from Reunion. Most agree that the variety of coffee they brough was Bourbon. It yielded its first crop in 1896.",
+			"Taste profile": "Kenyan coffees are renowned for their bright, complex berry/fruit qualities as well as their sweetness and intense acidity.",
+			"Varieties": "SL-28, SL-34, Ruiru 11, Batian, K7, Blue Mountain",
+			"Number of 60kg bags (2013)": "850,000",
+			"Country code": "404"}
+		,
+		"Malawi":
+			{"Introduction": "It seems that coffee was introduced to Malawi in the late 1800s. One claim states taht a single tree taken from the Edinburgh Botacnical Gardens was brought to the country in 1878 by John Buchnan, a Scottish missionary. It first took root in southern Malawi, in the Blantyre region, and by 1900 annual coffee production was at 1,000 tonnes (1,100 tons).",
+			"Taste profile": "The coffees can be quite sweet and clean, though rarely as explosively fruity and complex as other coffees from East Africa.",
+			"Varieties": "Agaro, Geisha, Catimor, Mundo Novo, Caturra",
+			"Number of 60kg bags (2013)": "30,000",
+			"Country code": "454"}
+		,
+		"Rwanda":
+			{"Introduction": "German missionaries first brought coffee to Rwanda in 1904, but the country did not produce enough to begin exports until 1917. After World War I, the League of Nations Mandate stripped Germany of its colonial rule over Rwanda, and handed it to the Belgians. This is why, historically, most of Rwanda's coffee has been exported to Belgium.",
+			"Taste profile": "Amazing coffees from Rwanda often have a fruitiness and freshness reminiscent of red apples or red grapes. Berry fruit flavours and floral qualities are also fairly common.",
+			"Varieties": "Bourbon, Mibrizi",
+			"Number of 60kg bags (2013)": "300,000",
+			"Country code": "646"}
+		,
+		"Tanzania":
+			{"Introduction": "Oral histories tell of coffee coming to Tanzania from Ethiopia in the 16th century. Brought by the Haya people and known as 'Haya Coffee' or amwani this was probably a Robusta variety and has since become stronly entwined in Tanzanian culture. The ripe cherries would be boiled, then smoked for several days and chewed rather than brewed into a drink.",
+			"Taste profile": "Complex, with bright and lively acidity and often with berry and fruity flavours, Tanzanian coffees can be juicy, interesting and delicious.",
+			"Varieties": "Kent, Bourbon, Typica, Robustas, Typica/Nyara",
+			"Number of 60kg bags (2013)": "750,000",
+			"Country code": "834"}
+		,
+		"Zambia":
+			{"Introduction": "Zambia has been, for quite some time, overlooked by much of the speciality coffee industry. One could argue that it is a chicken-and-egg situation, as historically little interest from speciality buyers has led to little investment in quality, and little investment in quality has led to little interest from speciality buyers.",
+			"Taste profile": "The rare, excellent coffees are bright and floral, with a clean fruit-like complexity.",
+			"Varieties": "Bourbon, Caltimor",
+			"Number of 60kg bags (2013)": "10,000",
+			"Country code": "894"}
+		,
+		"Bolivia":
+			{"Introduction": "Bolivia has the potential to produce truly great coffees, and already does in very small quantities. The country's entire production is smaller than that of one of Brazil's larger coffee farms. Production is shrinking year on year, and coffee farms are disappearing at an alarming rate. We may soon see coffees from Bolivia (especially great ones) almost disappear.",
+			"Taste profile": "The best Bolivian coffees tend to be very sweet adn very clean, but relatively rarely are they particularly fruity in flavour.",
+			"Varieties": "Caturra, Typica, Catuai, Criollo",
+			"Number of 60kg bags (2013)": "100,000",
+			"Country code": "68"}
+		,
+		"Brazil":
+			{"Introduction": "Brazil has been the world's largest producer of coffee for more than 150 years. Currently, Brazil grows aroud one-third of the world's coffee, although in the past its market share was as high as eighty per cent. Coffee was introduced to Brazil from French Guiana in 1727, while Brazil was still under Portuguese rule.",
+			"Taste profile": "Better Brazilian coffees tend to be low in acidity, heavy in body and sweet, often with chocolate and nutty flavours.",
+			"Varieties": "Many different Varieties, including some that were developed or evolved here, including the Mundo Novo, Yellow Bourbon, Caturra and Catuai",
+			"Number of 60kg bags (2013)": "47,544,000",
+			"Country code": "76"}
+		,
+		"Colombia":
+			{"Introduction": "Coffee was probably first introduced to Colombia in 1723 by the Jesuits, though there are inevitably different accounts. It spread slowly as a commercial crop to various regions of the country, but its production did not become significant until the end of the 19th century. By 1912, coffee made up approximately fifty per cent of Colombia's total exports.",
+			"Taste profile": "Colombian coffees have a huge range of flavours, from the heavier, chocolatier coffees through to jammy, sweet, fruity lots. A huge spectrum of flavours exists across the regions.",
+			"Varieties": "Typica, Caturra, Castillo",
+			"Number of 60kg bags (2013)": "10,900,000",
+			"Country code": "170"}
+		,
+		"Costa Rica":
+			{"Introduction": "Coffee has been grown in Costa Rica since the early 19th century. When the country's independence from Spain was declared in 1821, the municipal government gave away free coffee seeds to encourage production and records show there were around seventeen thousand trees in Costa Rica at that point.",
+			"Taste profile": "Costa Rican coffees are typically very clean and sweet, though often very light bodied. However, recently micro mills are producing a wider range of flavours and styles.",
+			"Varieties": "Caturra, Catuai",
+			"Number of 60kg bags (2013)": "1,396,000",
+			"Country code": "188"}
+		,
+		"Cuba":
+			{"Introduction": "Coffee came to Cuba from the island of Hispaniola in 1748, but there was little coffee industry to speak of until the influx of French settlers in 1791, fleeing the Haitian revolution. By 1827 there were around two thousand coffee farms on the island and coffee became a major export, generating more money than sugar.",
+			"Taste profile": "Cuban coffees have a typical island coffee profile: relatively low in acidity with a heavier body.",
+			"Varieties": "Mostly Typica, some Bourbon, Caturra, Catuai, Catimor",
+			"Number of 60kg bags (2013)": "150,000",
+			"Country code": "192"}
+		,
+		"Dominican Republic":
+			{"Introduction": "Coffee came to the Spanish-controlled portion of the island of Hispaniola, what is now the Dominican Republic, in 1735. The first plantings were probably on a hill in Bahoruco Panzo, near Neyba. by the end of the 18th century, coffee had become the second most important crop after sugar, though both relied heavily on slavery until the revolution of 1971.",
+			"Taste profile": "Typical of coffees grown on islands, the better lots tend to be quite mild, low to middling in acitidy and relatively clean.",
+			"Varieties": "Typica, Caturra, Catuai",
+			"Number of 60kg bags (2013)": "450,000",
+			"Country code": "214"}
+		,
+		"Ecuador":
+			{"Introduction": "Coffee cam relatively late to Ecuador, arriving in around 1860 in the province of Manabi. Coffee production spread throughout the country and by around 1905 exports to Europe began from the port of Manta. Ecuador is one of the relatively few countries to grow both Arabica and Robusta coffee.",
+			"Taste profile": "Coffees from Ecuador are beginning to live up to their potential for quality, with sweeter and more complex coffees becoming available. They are made more interesting by a pleasent acidity",
+			"Varieties": "Typica, Caturra, Robusta, Bourbon",
+			"Number of 60kg bags (2013)": "676,000",
+			"Country code": "218"}
+		,
+		"El Salvador":
+			{"Introduction": "Coffee was first produced commercially in El Salvador in the 1850s. It soon became a favoured crop, with tax breaks for producers. Coffee production became an important part of the economy and the country's main export, and by 1880 El Salvador was the fourth-largest producer of coffee in the world, producing more than twice as much as it does today.",
+			"Taste profile": "The Bourgon variety coffees from El Salvador are famously sweet and well balanced, with a pleasing soft acidity to give balance in the cup.",
+			"Varieties": "Bourbon, Pacas, Pacamara and others",
+			"Number of 60kg bags (2013)": "844,000",
+			"Country code": "222"}
+		,
+		"Guatemala":
+			{"Introduction": "Mayny believe that coffee was first introduced to Guatemala by the Jesuits around 1750, though there are accounts of it being grown and served in the country in 1747. As in El Salvador, coffee only became an important crop in Guatemala after 1856, when the invention of chemical dyes reduced demand for indigo, which was at that time the main cash crop.",
+			"Taste profile": "A wide range of flavours are present in Guatemala's coffees, from lighter, very sweet, fruity and complex coffees through to the heavier, richer and more choclatey cups.",
+			"Varieties": "Bourbon, Caturra, Catuai, Typica, Pache",
+			"Number of 60kg bags (2013)": "3,143,000",
+			"Country code": "320"}
+		,
+		"Hawaii":
+			{"Introduction": "Hawaii is the only coffee-producing region in a First-World country. This changes the economics, as well as the marketing, of the coffee. The producers here have been successful at engaging consumers directly - often entwining the coffee with a visit to the islands - but many coffee professionals feel that the quality of the coffee does not merit its price.",
+			"Taste profile": "Typically lower in acidity, with a little more body. Approachable but rarely complex and fruited.",
+			"Varieties": "Yellow Cutuai, Red Catuai, Typica, Blue Mountain, Mundo Novo, Catuai, Mokka",
+			"Number of 60kg bags (2013)": "43,181",
+			"Country code": ""}
+		,
+		"Honduras":
+			{"Introduction": "Since it is now the largest producer of coffee in Central America, it is surprising how little is known about the introduction of coffee to Honduras. What is probably the earliest record, dated to 1804, discusses the quality of the coffee produced there. This dates the arrival of coffee to before 1799, as the plants would take a few years to produce a crop.",
+			"Taste profile": "A rang of different flavours are found in Honduran coffees, but the best often have a complex fruity quality, and a lively, juicy acidity.",
+			"Varieties": "Bourbon, Caturra, Catuai, Pacas, Typica",
+			"Number of 60kg bags (2013)": "4,200,000",
+			"Country code": "340"}
+		,
+		"Jamaica":
+			{"Introduction": "The story of Coffee on the islands begins in 1728, when the Governor, Sir Nicholas Lawes, recieved a coffee plant from the Governor of Martinique. Lawes had already experimented with serveral crops, and the planted the coffee in the St Andrew area. Initially its production was relatively limited; in 1752 Jamaica exported only 27 tonnes (30 tons) of coffee.",
+			"Taste profile": "Clean, sweet coffees though rarely complex or juicy and fruity.",
+			"Varieties": "Jamaica Blue Mountain, Typica",
+			"Number of 60kg bags (2013)": "18,000",
+			"Country code": "388"}
+		,
+		"Mexico":
+			{"Introduction": "The first coffee plants were probably brought to Mexico around 1785, most likely from Cuba or what is now the Dominican Republic. There are reports of plantations in the region of Veracruz in 1790. However, due to the wealth earned from Mexico's rich mineral deposits, for many years there was little drive behind energizing and creating a coffee industry.",
+			"Taste profile": "Mexico produces quite a range of coffees across its regions, from lighter-bodied, delicate coffees through to sweeter coffees with caramel, toffee or chocolate flavours in the cup.",
+			"Varieties": "Bourbon, Typica, Caturra, Maragogype",
+			"Number of 60kg bags (2013)": "3,900,000",
+			"Country code": "484"}
+		,
+		"Nicaragua":
+			{"Introduction": "Coffee was first brought to Nicaragua by Catholic Missionaries in 1790 and initially it was grown as something of a curiosity. It was not until around 1840 that it gained economic significance in response to an increasing global demand for coffee. The first commercial plantations appeared around Managua.",
+			"Taste profile": "A range of flavours are found in Nicaraguan coffees. They are typically quite complex and capable of pleasing fruit-like flavours and clean acidity.",
+			"Varieties": "Caturra, Bourbon",
+			"Number of 60kg bags (2013)": "1,500,000",
+			"Country code": "558"}
+		,
+		"Panama":
+			{"Introduction": "Coffee plants probably arrived in Panama with the first European settlers in the early 19th century. In the past, Panama did not have a very good reputation for its coffees, and its production was about one-tenth of that of its neighbours Costa Rica, but now there is increasing interest from the speciality coffee community in the high-quality coffees it can produce.",
+			"Taste profile": "The better coffees tend to be citrusy and floral, light, bodied, delicate and complex.",
+			"Varieties": "Typica, Caturra, Bourbon, Catuai, Geisha, San Ramon",
+			"Number of 60kg bags (2013)": "100,000",
+			"Country code": "591"}
+		,
+		"Peru":
+			{"Introduction": "Coffee was first brought to Peru between 1740 and 1760, at a time when the Viceroyalty of Peru covered a larger area that the country does today. Although the climate was well suited to large-scale coffee production, all coffee grown in the first hundred years or so was consumed locally. the first exports of coffee, to Germany and England, did not begin until 1887.",
+			"Taste profile": "Typically Peruvian coffees hvae been clean, but a little soft and flat. They are sweet and relatively heavy bodied but not very complex. Increasingly there are distinctive and juicier coffees becoming available.",
+			"Varieties": "Bourbon, Typica, Caturra, Pache, Mondo Novo, Catuai, Catimor",
+			"Number of 60kg bags (2013)": "4,200,000",
+			"Country code": "604"}
+		,
+		"Venezuela":
+			{"Introduction": "The introduction of coffee to Venezuela is generally credited to a Jesuit priest named Jose Gumilla is around 1730. Venezuela came to be known for its plantations of tobacco and cacao run on the slave labour, and from around 1793 there is evidence of large coffee plantations too.",
+			"Taste profile": "The better coffees from Venezuela are quite sweet, a little low in acidity and relatively rich in terms of mouthfeel and texture.",
+			"Varieties": "Typica, Bourbon, Mundo Novo, Caturra",
+			"Number of 60kg bags (2013)": "900,000",
+			"Country code": "862"}
+		,
+		"India":
+			{"Introduction": "The origins of coffee production in southern India are entwined with myth. The story goes that a pilgrim named Baba Budan passed through Yemen in 1670 while returning from Mecca and smuggled out seven coffee seeds, the export of which was strictly controlled. Because the took seven, a sacrosanct number in Islam, it was considered a religious act.",
+			"Taste profile": "The best coffees from India tend to be heavy, creamy and low in acidity, but rarely particularly complex.",
+			"Varieties": "S795, Selection 5B, Selection 9, Selection 10, Cauvery, Kent, Robustas, Selection 4, Selection 6, S274",
+			"Number of 60kg bags (2013)": "5,303,000",
+			"Country code": "356"}
+		,
+		"Indonesia":
+			{"Introduction": "The first attempt to grow coffee on the Indonesian archipelago awa a failure. In 1696 the Governor of Jakarta (then Batavia) was sent a present of a few coffee seedlings by the Dutch Governor of Malabar in India. These plants were lost in a flood in Jakarta, so a second shipment was sent in 1699. These plants flourished.",
+			"Taste profile": "Semi-washed coffees tend to be very heavy bodied, earthy, woody and spicy with very little acidity.",
+			"Varieties": "Typica, TimTim, Ateng, Onon Gangjang, S795, Typica, USDA, Robusta",
+			"Number of 60kg bags (2013)": "11,667,000",
+			"Country code": "360"}
+		,
+		"Papua New Guinea":
+			{"Introduction": "Many people would associate Papua New Guinea's coffees with those from Indonesia, but it would be unfair to do so. Papua New Guinea rightly stands apart and the eastern half of New Guinea shares relatively little with neighbouring Papua when it comes to coffee.",
+			"Taste profile": "Great coffees from Papua New Guinea often have a buttery quality, great sweetness and wonderful complexity.",
+			"Varieties": "Bourbon, Typica, Arusha",
+			"Number of 60kg bags (2013)": "1,000,000",
+			"Country code": "598"}
+		,		
+		"Vietnam":
+			{"Introduction": "Vietnam could be considered an unusual inclusion in a book that focuses on high-quality speciality coffee, as it produces predominantly Robusta. However, Vietnam is different because of the impact it has had on every coffee-producing country in the world, and therefore merits inclusion to give some understanding.",
+			"Taste profile": "Very little high-quality coffee is available in Vietnam, and so most tastes flat, woody, and lacks sweetness or much character.",
+			"Varieties": "Robusta, Bourbon, Sparrow, Catimor",
+			"Number of 60kg bags (2013)": "27,500,000",
+			"Country code": "704"}
+		,		
+		"Yemen":
+			{"Introduction": "Yemen has been producing coffee on a commercial basis for longer than any other country, and its coffee is distinctive, perhaps challenging, and certainly unusual. Despite a strong demand for Yemeni coffee over the centuries, its trade has never commoditized. Yemen is unique, from its coffee varieties and its terraced farming to its processing and its trade.",
+			"Taste profile": "Wild, complex and pungent, a completely distinctive coffee experience, different from other coffees around the world. For some the wild, slightly fermented fruit quality is off-putting, while others prize it highly.",
+			"Varieties": "Heirloom Varieties",
+			"Number of 60kg bags (2013)": "200,000",
+			"Country code": "887"}
+		}
+}
